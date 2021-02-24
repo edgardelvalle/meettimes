@@ -1,0 +1,26 @@
+POST http://localhost:3000/creategroup
+Content-Type: application/json
+
+{
+    "password": "thegroup",
+    "limit": 2,
+    "name": "The good group"
+}
+
+###
+GET http://localhost:3000/joingroup/thegroup
+
+###
+
+POST http://localhost:3000/thegroup/addmember
+Content-Type: application/json
+
+{
+    "member": {
+        "name": "Edgar"
+    }
+}
+
+###
+
+GET http://localhost:3000/viewgroups

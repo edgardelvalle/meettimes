@@ -1,0 +1,97 @@
+{
+  "availabilities": [
+    {
+      "user": "Edgar",
+      "monday": {
+        "startTime": "0800",
+        "endTime": "1145"
+      },
+      "tuesday": {
+        "startTime": "0800",
+        "endTime": "1145"
+      },
+      "wednesday": {
+        "startTime": "1430",
+        "endTime": "2000"
+      },
+      "thursday": {
+        "startTime": "0800",
+        "endTime": "1145"
+      },
+      "friday": {
+        "startTime": "0800",
+        "endTime": "1145"
+      },
+      "saturday": {
+        "startTime": "1800",
+        "endTime": "2000"
+      },
+      "sunday": {
+        "startTime": "0000",
+        "endTime": "2400"
+      }
+    },
+    {
+      "user": "Del",
+      "monday": {
+        "startTime": "0800",
+        "endTime": "1145"
+      },
+      "tuesday": {
+        "startTime": "0800",
+        "endTime": "1145"
+      },
+      "wednesday": {
+        "startTime": "1430",
+        "endTime": "2000"
+      },
+      "thursday": {
+        "startTime": "0800",
+        "endTime": "1145"
+      },
+      "friday": {
+        "startTime": "0800",
+        "endTime": "1145"
+      },
+      "saturday": {
+        "startTime": "1800",
+        "endTime": "2000"
+      },
+      "sunday": {
+        "startTime": "0000",
+        "endTime": "2400"
+      }
+    },
+    {
+      "user": "Valle",
+      "monday": {
+        "startTime": "0800",
+        "endTime": "1145"
+      },
+      "tuesday": {
+        "startTime": "0800",
+        "endTime": "1145"
+      },
+      "wednesday": {
+        "startTime": "1430",
+        "endTime": "2000"
+      },
+      "thursday": {
+        "startTime": "0800",
+        "endTime": "1145"
+      },
+      "friday": {
+        "startTime": "0800",
+        "endTime": "1145"
+      },
+      "saturday": {
+        "startTime": "1800",
+        "endTime": "2000"
+      },
+      "sunday": {
+        "startTime": "0000",
+        "endTime": "2400"
+      }
+    }
+  ]
+}
